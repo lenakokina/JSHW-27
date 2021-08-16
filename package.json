@@ -1,0 +1,24 @@
+{
+  "name": "jshw-27",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "websocket.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lenakokina/JSHW-27.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lenakokina/JSHW-27/issues"
+  },
+  "homepage": "https://github.com/lenakokina/JSHW-27#readme",
+  "dependencies": {
+    "ws": "^8.1.0"
+  }
+}
